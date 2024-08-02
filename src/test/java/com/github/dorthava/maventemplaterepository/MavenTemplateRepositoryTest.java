@@ -1,4 +1,4 @@
-package maventemplaterepository;
+package com.github.dorthava.maventemplaterepository;
 
-public class MavenTemplateRepositoy {
+public class MavenTemplateRepositoryTest {
 }
